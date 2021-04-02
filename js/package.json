@@ -1,0 +1,15 @@
+{
+  "name": "spotify-developer-api",
+  "version": "1.0.0",
+  "description": "spotify-dev",
+  "main": "recommendation.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "MMK",
+  "license": "ISC",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "node-fetch": "^2.6.1"
+  }
+}
